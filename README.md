@@ -2,7 +2,7 @@
 
 image credits _
 
-https://github.com/Tesserxt/odin-LandingPage.git
+
 
 https://www.foodnetwork.ca/profile/zahra-kasmani/
 
